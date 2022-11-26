@@ -1,3 +1,4 @@
-Задачи разминочного раунда Яндекс.Алго­ритма-2018 https://yandex.ru/cup/algorithm/analysis/
+Задачи разминочного раунда Яндекс.Алго­ритма-2018 https://yandex.ru/cup/algorithm/analysis/ 
+1 задача "время в зеркалье"
 
 Решение задачи на python
